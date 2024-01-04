@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Searchable Speener</string>
+    <string name="no_selection">No Item Select</string>
+    <string name="start_search">Start search</string>
+    <string name="search">Search Probe</string>
+    <string name="empty_list">No Items Found</string>
+</resources>

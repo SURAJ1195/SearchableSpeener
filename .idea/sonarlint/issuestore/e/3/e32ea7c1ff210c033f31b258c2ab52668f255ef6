@@ -1,0 +1,35 @@
+
+>
+java:S1604s"(Make this anonymous inner class a lambda(…»ÒÃ
+>
+java:S1604ü"(Make this anonymous inner class a lambda(üÃøy
+>
+java:S1604²"(Make this anonymous inner class a lambda(ªèä
+o	java:S115="ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ƒ™ìˆ
+t	java:S115>"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(î¯–âûÿÿÿÿ
+v	java:S116B"\Rename this field "imgVw_StartSearch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¦‰éøÿÿÿÿ
+}
+java:S1450P"bRemove the "mScreenHeightPixels" field and declare it as a local variable in the relevant methods.(É×œşÿÿÿÿ
+w
+java:S1450Q"aRemove the "mScreenWidthPixels" field and declare it as a local variable in the relevant methods.(Ë´€Ä
+˜
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+˜
+java:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(¶Ù«
+l
+java:S3252–"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(…›ù†øÿÿÿÿ
+D
+java:S1185"(Remove this method to simply inherit it.(½íµ”úÿÿÿÿ
+W	java:S125Î"<This block of commented-out lines of code should be removed.(“¶í·ùÿÿÿÿ
+P
+java:S1874Ã"9Remove this use of "getDefaultDisplay"; it is deprecated.(°ı¿˜
+I
+java:S1874Ã"2Remove this use of "getMetrics"; it is deprecated.(°ı¿˜
+p	java:S115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ìôºƒ
+p	java:S115´"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹Œ†–
+p	java:S115µ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯çÛë
+R
+java:S1068P"7Remove this unused "mScreenHeightPixels" private field.(É×œşÿÿÿÿ
+L
+java:S1068Q"6Remove this unused "mScreenWidthPixels" private field.(Ë´€Ä
